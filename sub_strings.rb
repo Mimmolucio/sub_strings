@@ -18,7 +18,7 @@ def substrings(word, subs)
     end
   end
 
-  puts matches
+  puts matches 
 
 end
 
